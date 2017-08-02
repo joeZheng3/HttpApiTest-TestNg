@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="httpclient-4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../java jar/httpclient-4.5所需jar包/httpclient-4.5所需jar包" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../java jar/httpclient-4.5所需jar包/httpclient-4.5所需jar包" recursive="false" />
+  </library>
+</component>
